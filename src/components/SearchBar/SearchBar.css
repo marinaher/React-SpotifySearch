@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto");
+
+.searchBar {
+  align-items: center;
+  display: flex;
+  margin: 10px auto;
+}
+
+.input {
+  border: 1px solid #d3d3d3;
+  border-radius: 3px;
+  font-size: 20px;
+  height: 40px;
+  margin-right: 10px;
+  text-align: center;
+  width: 350px;
+}
+
+.button {
+  border: none;
+  background-color: #d71e9e;
+  border-radius: 7px;
+  color: #fff;
+  font-family: 'Roboto', cursive;
+  height: 41px;
+  width: 100px;
+}
